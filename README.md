@@ -1,16 +1,40 @@
-## Hi there 👋
+# Привет, меня зовут Артём 👋
 
-<!--
-**Sordid-Slug/Sordid-Slug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Обо мне
+Я — **ML-разработчик**. Выпускник **МИЭТ** (Прикладная математика) и участник **Школы 21** от Сбера. Не бросаю учиться новому и регулярно выполняю проекты или изучаю теорию.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Стек технологий
+
+**Языки программирования:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+**Data Science & ML:**
+<p align="left">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
+
+**Базы данных и инструменты:**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</p>
+
+---
+
+### 🏆 Ключевые проекты
+
+*   **[test_ozon](https://github.com)** — Работа с временными рядами: полный цикл разработки модели от сырых данных до предсказания, глубокий EDA и Feature Engineering.
+*   **[ML](https://github.com)** — Коллекция продвинутых моделей на базе соревнований **Kaggle**. Исследование алгоритмов и тюнинг гиперпараметров.
+*   **[S21_Containers](https://github.com)** — Реализация стандартных контейнеров на **C++** (командный проект). Опыт работы с низкоуровневой логикой и структурами данных.
+*   **[DS_Bootcamp](https://github.com)** — Фундаментальные учебные кейсы, охватывающие базу Data Science.
